@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Criptomonedas/static/css/main.335a3d9a.css",
+    "main.js": "/Criptomonedas/static/js/main.89f9fadd.js",
+    "static/media/123.png": "/Criptomonedas/static/media/123.32a693c32edf199f0abd.png",
+    "static/media/cryptomoneda.png": "/Criptomonedas/static/media/cryptomoneda.a2d3cfae784ba7179dfb.png",
+    "static/media/coolvetica.otf": "/Criptomonedas/static/media/coolvetica.5363e58a07461bacfd1a.otf",
+    "index.html": "/Criptomonedas/index.html",
+    "main.335a3d9a.css.map": "/Criptomonedas/static/css/main.335a3d9a.css.map",
+    "main.89f9fadd.js.map": "/Criptomonedas/static/js/main.89f9fadd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.335a3d9a.css",
+    "static/js/main.89f9fadd.js"
+  ]
+}
