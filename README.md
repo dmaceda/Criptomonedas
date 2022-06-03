@@ -1,3 +1,5 @@
+![Preview de la App ]()
+Link de la App : https://dmaceda.github.io/Clima-App/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
