@@ -1,5 +1,8 @@
 ![Preview de la App ](https://github.com/dmaceda/Criptomonedas/blob/master/cripto_mokup.png)
-Link de la App : https://dmaceda.github.io/Clima-App/
+
+Link de la App : https://dmaceda.github.io/Criptomonedas/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
