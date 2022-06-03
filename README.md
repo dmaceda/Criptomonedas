@@ -1,4 +1,4 @@
-![Preview de la App ]()
+![Preview de la App ](https://github.com/dmaceda/Criptomonedas/blob/master/cripto_mokup.png)
 Link de la App : https://dmaceda.github.io/Clima-App/
 # Getting Started with Create React App
 
